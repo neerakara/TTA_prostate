@@ -1,0 +1,16 @@
+================================== 
+Test results 
+88800036:: dice (mean, std over all FG labels): 0.777, 0.0, hausdorff distance (mean, std over all FG labels): 0.0, 0.0
+88800049:: dice (mean, std over all FG labels): 0.883, 0.0, hausdorff distance (mean, std over all FG labels): 0.0, 0.0
+================================== 
+Label: dice mean, std. deviation over all subjects
+0: 0.993, 0.002
+1: 0.83, 0.053
+================================== 
+Label: hausdorff distance mean, std. deviation over all subjects
+1: 0.0, 0.0
+2: 0.0, 0.0
+================================== 
+DICE Mean, std. deviation over foreground labels over all subjects: 0.83, 0.053
+HSD Mean, std. deviation over labels over all subjects: 0.0, 0.0
+================================== 
